@@ -39,6 +39,10 @@ Below are the reconstructed versions of a Roux Institute classroom across differ
 ![Future Timeline](./screenshots/Future_time.png)
 *Holographic displays, floating furniture, and neon everything*
 
+### controls
+![Time clocks](./screenshots/Time_clocks.png)
+*three clocks working like time travel portals 🙂*
+
 Report & Documentation - [MR Documentation](https://docs.google.com/document/d/1p3lCSFvj_56a7hkDni1GUBkTU6GBmtjz4Lu3-o5UrxE/edit?usp=sharing)
 
 ## 📦 Asset Attribution
